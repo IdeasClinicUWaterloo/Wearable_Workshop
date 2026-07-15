@@ -1,2 +1,2 @@
 # Wearable_Workshop
-Workshop tutorials, templates, and teaching resources for wearable device prototyping.
+Created by: Engineering IDEAs Clinic Co-op Students
