@@ -19,4 +19,4 @@ Heat forming allows the EVA foam to curve naturally around the glasses, creating
   6. Apply heat along the exposed edge of the bend using small circular or sweeping motions. Do not keep the heat gun pointed at one spot for too long, as this can burn the foam.
   7. Press the ruler firmly along the bending line to compress the foam and create a sharper fold.
   8. Repeat the process for the straps. Test-fit all the pieces on the glasses and make any necessary adjustments if needed.
-
+https://github.com/user-attachments/assets/0ec9d749-23ac-415f-a76e-c89092f9838f
