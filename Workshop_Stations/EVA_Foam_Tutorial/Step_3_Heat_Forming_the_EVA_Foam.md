@@ -3,10 +3,12 @@
 ### Advice and Safety Reminder
 - **Always** use a heat mat when operating the heat gun to protect the work surface.
 - **Never** place your hand underneath or directly in front of the heat gun nozzle. Hot air can cause burns even without direct contact.
-- **Do not** touch the heated area with your skin immediately after heating. Allow it to cool briefly before handling.
-- **Do not**use the heat gun after the pieces have been glued together. The heat can soften or melt the adhesive, causing the joints to separate.
+- **Never** point the heat gun at yourself or others.
 - **Never** leave the heat gun unattended while it is switched on. Turn it off immediately after use.
+- **Do not** touch the heated area with your skin immediately after heating. Allow it to cool briefly before handling.
+- **Do not** use the heat gun after the pieces have been glued together. The heat can soften or melt the adhesive, causing the joints to separate.
 - **Do not** keep the heat gun pointed at one spot for too long, as this can burn the foam.
+
 
 ---
 Heat forming allows the EVA foam to curve naturally around the glasses, creating a snug fit and reducing stress on the material during folding
@@ -19,4 +21,9 @@ Heat forming allows the EVA foam to curve naturally around the glasses, creating
   6. Apply heat along the exposed edge of the bend using small circular or sweeping motions. Do not keep the heat gun pointed at one spot for too long, as this can burn the foam.
   7. Press the ruler firmly along the bending line to compress the foam and create a sharper fold.
   8. Repeat the process for the straps. Test-fit all the pieces on the glasses and make any necessary adjustments if needed.
-https://github.com/user-attachments/assets/0ec9d749-23ac-415f-a76e-c89092f9838f
+
+Videos:
+- https://github.com/user-attachments/assets/0ec9d749-23ac-415f-a76e-c89092f9838f
+- https://github.com/user-attachments/assets/0aade566-2a31-4cec-a670-5dc1cf9c0c25
+
+
