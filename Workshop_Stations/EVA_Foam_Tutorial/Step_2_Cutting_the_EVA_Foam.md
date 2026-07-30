@@ -28,9 +28,5 @@ Carefully cut along the traced lines using a pair of scissors. Make long, smooth
 After cutting, arrange all pieces together and compare them with the paper templates to ensure all dimensions are correct before moving on to heat forming.
 
 <br>
-<table style="border: none; border-collapse: collapse; width: 100%;">
-<tr style="border: none;">
-<td style="border: none; background: none; padding: 0; text-align: left;"><strong>Back:</strong> <a href="Step_1_Pattern_Making.md">Pattern Making</a></td>
-<td style="border: none; background: none; padding: 0; text-align: right;"><strong>Next:</strong> <a href="Step_3_Heat_Forming_the_EVA_Foam.md">Heat Forming the EVA Foam</a></td>
-</tr>
-</table>
+
+**Back:** [Pattern Making](Step_1_Pattern_Making.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Next:** [Heat Forming the EVA Foam](Step_3_Heat_Forming_the_EVA_Foam.md)
