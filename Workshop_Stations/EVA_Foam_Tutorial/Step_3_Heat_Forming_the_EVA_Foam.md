@@ -23,7 +23,9 @@ Heat forming allows the EVA foam to curve naturally around the glasses, creating
   8. Repeat the process for the straps. Test-fit all the pieces on the glasses and make any necessary adjustments if needed.
 
 Videos:
-- https://github.com/user-attachments/assets/0ec9d749-23ac-415f-a76e-c89092f9838f
-- https://github.com/user-attachments/assets/0aade566-2a31-4cec-a670-5dc1cf9c0c25
+
+<img width="400" height="397" alt="Heat_Forming_bend" src="https://github.com/user-attachments/assets/d1dfd77a-39ad-4556-bddb-2bfee91d4c65" />
+
+
 
 
