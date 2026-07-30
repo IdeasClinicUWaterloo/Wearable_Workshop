@@ -43,7 +43,6 @@ Test all templates on the glasses and adjust as needed before transferring them 
 </div>
 
 <br>
-
-| | |
-|:---|---:|
-| | **Next:** [Cutting the EVA Foam](Step_2_Cutting_the_EVA_Foam.md) |
+<div align="right">
+  <strong>Next:</strong> <a href="Step_2_Cutting_the_EVA_Foam.md">Cutting the EVA Foam</a>
+</div>
