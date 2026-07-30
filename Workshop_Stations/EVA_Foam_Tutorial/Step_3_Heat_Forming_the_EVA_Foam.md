@@ -9,25 +9,46 @@
 - **Do not** use the heat gun after the pieces have been glued together. The heat can soften or melt the adhesive, causing the joints to separate.
 - **Do not** keep the heat gun pointed at one spot for too long, as this can burn the foam.
 
-
 ---
-Heat forming allows the EVA foam to curve naturally around the glasses, creating a snug fit and reducing stress on the material during folding
 
-  1. Mark the fold area (hinge area) on the EVA foam using a pencil or marker.
-  2. Place the EVA foam on a heat mat before using the heat gun.
-  3. Fold the EVA foam along the marked fold line to the desired angle.
-  4. Place a long, heat-resistant straight edge (such as a ruler) on top of the bent section to hold the foam in position.
-  5. Turn the heat gun to the low heat setting.
-  6. Apply heat along the exposed edge of the bend using small circular or sweeping motions. Do not keep the heat gun pointed at one spot for too long, as this can burn the foam.
-  7. Press the ruler firmly along the bending line to compress the foam and create a sharper fold.
-  8. Repeat the process for the straps. Test-fit all the pieces on the glasses and make any necessary adjustments if needed.
+Heat forming allows the EVA foam to curve naturally around the glasses, creating a snug fit and reducing stress on the material during folding.
 
-Videos:
+### 1. Mark the fold area
+Mark the fold area (hinge area) on the EVA foam using a pencil or marker.
 
-<img width="400" height="383" alt="Heat_Forming_flat" src="https://github.com/user-attachments/assets/08e730a9-9dfc-43b3-bf0a-c4763666a292" />
+### 2. Prepare the heat mat
+Place the EVA foam on a heat mat before using the heat gun.
 
-<img width="400" height="397" alt="Heat_Forming_bend" src="https://github.com/user-attachments/assets/d1dfd77a-39ad-4556-bddb-2bfee91d4c65" />
+### 3. Fold the foam
+Fold the EVA foam along the marked fold line to the desired angle.
+
+### 4. Position the straight edge
+Place a long, heat-resistant straight edge (such as a ruler) on top of the bent section to hold the foam in position.
+
+### 5. Set the heat gun
+Turn the heat gun to the low heat setting.
+
+### 6. Apply heat
+Apply heat along the exposed edge of the bend using small circular or sweeping motions. Do not keep the heat gun pointed at one spot for too long, as this can burn the foam.
+
+### 7. Compress the fold
+Press the ruler firmly along the bending line to compress the foam and create a sharper fold.
+
+### 8. Repeat for the straps
+Repeat the process for the straps. Test-fit all the pieces on the glasses and make any necessary adjustments if needed.
+
+### Reference Images
+
+<div align="center">
+  <img width="400" height="383" alt="Heat_Forming_flat" src="https://github.com/user-attachments/assets/08e730a9-9dfc-43b3-bf0a-c4763666a292" />
+</div>
 
 
 
+<div align="center">
+  <img width="400" height="397" alt="Heat_Forming_bend" src="https://github.com/user-attachments/assets/d1dfd77a-39ad-4556-bddb-2bfee91d4c65" />
+</div>
 
+<br>
+
+**Back:** [Cutting the EVA Foam](Step_2_Cutting_the_EVA_Foam.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Next:** [Assembling the EVA Foam](Step_4_Assembling_the_EVA_Foam.md)
