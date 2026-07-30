@@ -24,6 +24,8 @@ Heat forming allows the EVA foam to curve naturally around the glasses, creating
 
 Videos:
 
+<img width="400" height="383" alt="Heat_Forming_flat" src="https://github.com/user-attachments/assets/08e730a9-9dfc-43b3-bf0a-c4763666a292" />
+
 <img width="400" height="397" alt="Heat_Forming_bend" src="https://github.com/user-attachments/assets/d1dfd77a-39ad-4556-bddb-2bfee91d4c65" />
 
 
