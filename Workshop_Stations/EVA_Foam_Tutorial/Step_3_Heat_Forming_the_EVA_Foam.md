@@ -1,13 +1,23 @@
 # Step 3 - Heat Forming the EVA Foam
 
-### Advice and Safety Reminder
-- **Always** use a heat mat when operating the heat gun to protect the work surface.
-- **Never** place your hand underneath or directly in front of the heat gun nozzle. Hot air can cause burns even without direct contact.
-- **Never** point the heat gun at yourself or others.
-- **Never** leave the heat gun unattended while it is switched on. Turn it off immediately after use.
-- **Do not** touch the heated area with your skin immediately after heating. Allow it to cool briefly before handling.
-- **Do not** use the heat gun after the pieces have been glued together. The heat can soften or melt the adhesive, causing the joints to separate.
-- **Do not** keep the heat gun pointed at one spot for too long, as this can burn the foam.
+> ## ⚠️ Heat Gun Safety
+> **A heat gun can reach temperatures above 300–600°C. Improper use can cause burns, fire, or damage to your project. Read all safety instructions before turning it on.**
+
+### 🔥 Advice and Safety Reminder
+
+- 🟠 **Always** place the EVA foam on a **heat-resistant mat** before using the heat gun.
+- 🔥 **Never** place your hand underneath or directly in front of the heat gun nozzle. Hot air can burn your skin even without touching the nozzle.
+- 🚫 **Never** point the heat gun at yourself or anyone else.
+- 👀 **Never** leave the heat gun unattended while it is switched on. Turn it off immediately after use and allow it to cool completely before storing.
+- 🧤 **Do not** touch the heated EVA foam immediately after heating. Let it cool for several seconds before handling.
+- 🔥 **Do not** heat the same spot continuously. Keep the heat gun moving using slow circular or sweeping motions to prevent scorching or melting the foam.
+- 📏 **Keep the heat gun 5–10 cm (2–4 in)** away from the foam while heating.
+- 🪟 **Work in a well-ventilated area.** Heated foam and adhesives may produce fumes.
+- 💧 **Keep the heat gun away from water** and avoid using it with wet hands.
+- 🧯 **Keep flammable materials** (paper, fabric scraps, solvents, alcohol, etc.) away from the work area.
+- 🧷 **Tie back long hair** and avoid loose clothing or dangling jewelry that could contact the hot nozzle.
+- ❌ **Do not** use the heat gun after the EVA foam pieces have been glued together. The heat can soften or melt the adhesive, causing the joints to separate.
+- ⚡ **Unplug the heat gun** after use and wait until it has completely cooled before putting it away.
 
 ---
 
@@ -38,13 +48,19 @@ Press the ruler firmly along the bending line to compress the foam and create a 
 Repeat the process for the straps. Test-fit all the pieces on the glasses and make any necessary adjustments if needed.
 
 ### Reference Images
-
+🟡 Heat-resistant mat
+🔥 Keep the heat gun moving
+📏 5–10 cm (2–4 in) away
+⚠️ Hot surface
 <div align="center">
   <img width="400" height="383" alt="Heat_Forming_flat" src="https://github.com/user-attachments/assets/08e730a9-9dfc-43b3-bf0a-c4763666a292" />
 </div>
 
 
-
+📏 Hold ruler firmly
+🔥 Heat the exposed edge
+↺ Use sweeping motions
+⚠️ Keep fingers away from the nozzle
 <div align="center">
   <img width="400" height="397" alt="Heat_Forming_bend" src="https://github.com/user-attachments/assets/d1dfd77a-39ad-4556-bddb-2bfee91d4c65" />
 </div>
