@@ -53,7 +53,8 @@ Repeat the process for the straps. Test-fit all the pieces on the glasses and ma
 📏 5–10 cm (2–4 in) away
 ⚠️ Hot surface
 <div align="center">
-  <img width="400" height="383" alt="Heat_Forming_flat" src="https://github.com/user-attachments/assets/08e730a9-9dfc-43b3-bf0a-c4763666a292" />
+  <img width="400" height="383" alt="Heat_Gun_flat" src="https://github.com/user-attachments/assets/0b290a8e-7315-48ea-8296-05faef414159" />
+
 </div>
 
 
@@ -62,8 +63,9 @@ Repeat the process for the straps. Test-fit all the pieces on the glasses and ma
 ↺ Use sweeping motions
 ⚠️ Keep fingers away from the nozzle
 <div align="center">
-  <img width="400" height="397" alt="Heat_Forming_bend" src="https://github.com/user-attachments/assets/d1dfd77a-39ad-4556-bddb-2bfee91d4c65" />
+  <img width="400" height="396" alt="Heat_Gun_Bend" src="https://github.com/user-attachments/assets/183d4a27-2d2d-4935-9f48-0832c22557f6" />
 </div>
+
 
 <br>
 
